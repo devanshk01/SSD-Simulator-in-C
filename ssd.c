@@ -4,9 +4,6 @@
     MC214 - Operating Systems
     Date : 22-Nov-2024
 
-    Team:
-    1. Devansh Kukadia - 202303030
-    2. Virat Shrimali - 202303061
 */
 
 
